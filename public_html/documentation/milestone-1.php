@@ -1,11 +1,3 @@
-/**
-* Personal website Milestone 1
-*
-* a summary of the personal website's purpose, audience, and goal
-*
-* @author Louis Gill <lgill7@cnm.edu>
-**/
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>

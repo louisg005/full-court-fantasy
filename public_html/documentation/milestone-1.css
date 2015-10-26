@@ -3,7 +3,12 @@ h1 {
 }
 
 .boxed {
-	border: 1px solid black ;
+	border: 1px solid black;
 	padding: 40px;
 	margin: 100px;
+}
+
+p {
+	margin-right: 10cm;
+	margin-left: 10cm;
 }

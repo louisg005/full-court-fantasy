@@ -2,3 +2,6 @@ h1 {
 	text-align: center;
 }
 
+.boxed {
+	border: 1px solid green ;
+}

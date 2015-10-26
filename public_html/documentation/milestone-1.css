@@ -10,7 +10,6 @@ h1 {
 **/
 .boxed {
 	border: 1px solid black;
-	margin: 100px;
 	margin-left: 10cm;
 	margin-right: 10cm;
 }

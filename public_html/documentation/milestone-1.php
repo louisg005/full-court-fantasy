@@ -8,7 +8,7 @@
 	<body>
 		<div class="boxed">
 		<h1>Purpose</h1>
-		<p>I would like my website to become a home for all things fantasy basketball. People will use its sagely wisdom to gain the upper hand against their opponents and I will become revered as a fantasy basketball guru..</p>
+		<p>I would like my website to become a home for all things fantasy basketball. People will use its sagely wisdom to gain the upper hand against their opponents and I will become revered as a fantasy basketball guru.</p>
 		<hr>
 		<h1>Audience</h1>
 		<p>The primary user of the site is someone who is a hardcore player of fantasy basketball. The site will target those players who wish to go beyond casual enjoyment and use deep analysis and analytics to compete at a higher level.</p>

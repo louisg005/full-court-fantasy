@@ -9,7 +9,7 @@ h1 {
 *placed a box around all the text
 **/
 .boxed {
-	border: 1px solid black;
+	border: 5px solid black;
 	margin-left: 10cm;
 	margin-right: 10cm;
 	max-width: 700px;

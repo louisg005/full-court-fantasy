@@ -17,6 +17,9 @@ h1 {
 	background: white;
 }
 
+/**
+*changes the background color to red
+**/
 body {
 	background-color: #990000;
 }

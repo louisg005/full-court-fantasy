@@ -5,7 +5,7 @@
 		<title>PWP Milestone 1</title>
 		<link rel="stylesheet" type="text/css" href="milestone-1.css" title="PWP Milestone 1">
 	</head>
-	<body>
+	<body><div class="boxed">
 		<h1>Purpose</h1>
 		<p>I would like my website to become a home for all things fantasy basketball. People will use its sagely wisdom to gain the upper hand against their opponents and I will become revered as a fantasy basketball guru..</p>
 		<hr>
@@ -16,5 +16,5 @@
 		<h1>Goal</h1>
 		<p>Most importantly, this website should become something that I can showcase to promote my work, whether it be in an effort to attract freelance clients, acquire gainful employment, or garner an internship.</p>
 		<p>The auxiliary goal of the website is to grow it into a full-fledged business. This may happen slowly as it will take extra time to generate the content necessary to do so.</p>
-	</body>
+		</div></body>
 </html>

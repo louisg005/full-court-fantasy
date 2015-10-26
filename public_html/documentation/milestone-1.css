@@ -1,12 +1,19 @@
 /**
+* style sheet for milestone-1.php
+*
+* @author Louis Gill <lgill7@cnm.edu>
+**/
+
+/**
 *centered all the headings
 **/
+
 h1 {
 	text-align: center;
 }
 
 /**
-*placed a box around all the text
+* placed a box around all the text
 **/
 .boxed {
 	border: 5px solid black;
@@ -19,7 +26,7 @@ h1 {
 }
 
 /**
-*changes the background color to red
+* changes the background color to red
 **/
 body {
 	background-color: #990033;

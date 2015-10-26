@@ -1,13 +1,23 @@
+/**
+*centered all the headings
+**/
 h1 {
 	text-align: center;
 }
 
+/**
+*placed a box around all the text
+**/
 .boxed {
 	border: 1px solid black;
-	padding: 40px;
 	margin: 100px;
+	margin-left: 10cm;
+	margin-right: 10cm;
 }
 
+/**
+*set margins for the paragraphs
+**/
 p {
 	margin-right: 10cm;
 	margin-left: 10cm;

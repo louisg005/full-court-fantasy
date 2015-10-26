@@ -4,6 +4,7 @@ h1 {
 
 .boxed {
 	border: 1px solid black;
+	padding: 40px;
 	margin: 100px;
 }
 

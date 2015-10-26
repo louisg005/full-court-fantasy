@@ -16,6 +16,7 @@ h1 {
 	padding: 40px;
 }
 
-/**
-*set margins for the paragraphs
-**/
+body {
+	background-image: url("bball-wallpaper.jpg");
+	background-color: #cccccc;
+}

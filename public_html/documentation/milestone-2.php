@@ -36,6 +36,7 @@
 		</ul>
 		<img src="fcf.jpg" alt="use case diagram" width="600" height="300">
 		<br>
+		<br>
 		<h2>Proposed Site Map</h2>
 		<hr>
 		<p>Site will consist of 4 top-level pages total:</p>

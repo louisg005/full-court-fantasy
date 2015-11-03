@@ -43,10 +43,12 @@
 			<li>News</li>
 			<li>Rankings</li>
 			<li>Articles</li>
-				<li>Draft Strategy</li>
-				<li>Waiver-wire Watch</li>
-				<li>Injuries</li>
-				<li>Trader's Alley</li>
+		</ul>
+		<ul>
+			<li>Draft Strategy</li>
+			<li>Waiver-wire Watch</li>
+			<li>Injuries</li>
+			<li>Trader's Alley</li>
 		</ul>
 		<hr>
 

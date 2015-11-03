@@ -34,7 +34,7 @@
 			<li>2. </li>
 			<li>3. </li>
 		</ul>
-		<img src="fcf.jpg" alt="use case diagram" width="300" height="150">
+		<img src="fcf.jpg" alt="use case diagram" width="600" height="300">
 		<br>
 		<h2>Proposed Site Map</h2>
 		<hr>

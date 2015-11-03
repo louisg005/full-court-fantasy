@@ -53,5 +53,16 @@
 			<li>Injuries</li>
 			<li>Trader's Alley</li>
 		</ul>
+		<p><strong>Home Page: </strong>Presents the user with a form for subscribing to the email list and will feature recent news, articles, and rankings.</p>
+		<p><strong>News: </strong>Will list all news items in order of recency.</p>
+		<p><strong>Rankings: </strong>Will be a static page listing the top 200 fantasy basketball players and will be sortable by position.</p>
+		<p><strong>Articles: </strong>Will list links to all articles by recency.</p>
+		<br>
+		<h2>Proposed Features and Functionality</h2>
+		<hr>
+		<ul>
+			<li>Top navigation bar on all content pages.</li>
+			<li>Contact info and social media links to be featured in the footer on all pages.</li>
+		</ul>
 	</body>
 </html>

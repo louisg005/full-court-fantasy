@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Milestone 2</title>
+		<link href="milestone-2.css" style="text/css">
 	</head>
 	<body>
 		<h1>PWP Milestone 2</h1>

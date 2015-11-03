@@ -37,13 +37,14 @@
 		<img src="fcf.jpg" alt="use case diagram" width="600" height="300">
 		<br>
 		<h2>Proposed Site Map</h2>
-		<p>Site will consist of 4 top-level pages total. There will also be additional pages for each type of article.</p>
+		<p>Site will consist of 4 top-level pages total:</p>
 		<ul>
 			<li>Home Page</li>
 			<li>News</li>
 			<li>Rankings</li>
 			<li>Articles</li>
 		</ul>
+		<p> There will also be additional pages for each type of article:</p>
 		<ul>
 			<li>Draft Strategy</li>
 			<li>Waiver-wire Watch</li>

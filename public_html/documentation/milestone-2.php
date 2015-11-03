@@ -30,9 +30,9 @@
 		<hr>
 		<p>Gary Barnidge is on the train on his way to work on a Friday. He has a fantasy basketball draft immediately after he gets off of work and has not prepared at all. Gary heard about the site from last year's champion and decides to give it a try. He leans away from the smelly man next to him, pulls out his Motorola Droid Turbo, and enters the Full-Court Fantasy URL. Here is an outline of Gary's interaction with the site:</p>
 		<ul>
-			<li>1. Lands on homepage. </li>
-			<li>2. </li>
-			<li>3. </li>
+			<li>1. Lands on homepage. Clicks on the "articles" drop down nav. Selects "Draft Strategy" from the presented options.</li>
+			<li>2. Reads article on "draft strategy". Clicks on "RANKINGS" nav at the top of the screen.</li>
+			<li>3. Reads introduction and subsequent list of the top 200 fantasy basketball players.</li>
 		</ul>
 		<img src="fcf.jpg" alt="use case diagram" width="600" height="300">
 		<br>

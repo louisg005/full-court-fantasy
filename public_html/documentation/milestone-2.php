@@ -37,6 +37,7 @@
 		<img src="fcf.jpg" alt="use case diagram" width="600" height="300">
 		<br>
 		<h2>Proposed Site Map</h2>
+		<hr>
 		<p>Site will consist of 4 top-level pages total:</p>
 		<ul>
 			<li>Home Page</li>
@@ -51,7 +52,5 @@
 			<li>Injuries</li>
 			<li>Trader's Alley</li>
 		</ul>
-		<hr>
-
 	</body>
 </html>

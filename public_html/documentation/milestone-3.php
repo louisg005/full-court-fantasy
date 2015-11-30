@@ -7,7 +7,9 @@
 	<body>
 		<h1>Desktop</h1>
 		<img src="milestone-3-desktop.svg" alt="wireframe (desktop)">
+		<br>
 		<hr>
+		<br>
 		<h1>Mobile</h1>
 		<img src="milestone-3-mobile.svg" alt="wireframe (mobile)">
 	</body>

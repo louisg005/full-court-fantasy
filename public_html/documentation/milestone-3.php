@@ -5,24 +5,9 @@
 		<title>Milestone 3</title>
 	</head>
 	<body>
-		<h1>Home Page</h1>
-		<hr>
-		<h3>Mobile</h3>
-		<h3>Desktop</h3>
-
-		<h1>News</h1>
-		<hr>
-		<h3>Mobile</h3>
-		<h3>Desktop</h3>
-
-		<h1>Rankings</h1>
-		<hr>
-		<h3>Mobile</h3>
-		<h3>Desktop</h3>
-
-		<h1>Articles</h1>
-		<hr>
-		<h3>Mobile</h3>
-		<h3>Desktop</h3>
+		<h1>Desktop</h1>
+		<img src="milestone-3-desktop.svg" alt="wireframe (desktop)">
+		<h1>Mobile</h1>
+		<img src="milestone-3-mobile.svg" alt="wireframe (mobile)">
 	</body>
 </html>

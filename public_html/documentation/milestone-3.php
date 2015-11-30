@@ -6,8 +6,10 @@
 	</head>
 	<body>
 		<h1>Desktop</h1>
+		<hr>
 		<img src="milestone-3-desktop.svg" alt="wireframe (desktop)">
 		<h1>Mobile</h1>
+		<hr>
 		<img src="milestone-3-mobile.svg" alt="wireframe (mobile)">
 	</body>
 </html>

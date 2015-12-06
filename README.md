@@ -17,3 +17,14 @@ I'm thinking the [Mailgun](http://www.mailgun.com/) API might be a good fit for 
 
 Your Milestone 2 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Nice work.
 
+## Milestone 3 Feeback
+Nice work, this layout should be pretty straightforward in Bootstrap. Since you have so much work ahead of you in TrailQuail, you may even consider trimming down the layout even a bit more. I love this idea, and hope you take it forward using some kind of blogging platform/CMS. 
+
+Maybe consider placing the logo/sitename and nav links on the same line, together in the navbar, and having the nav links collapse on mobile.
+
+Having horizontal text links on mobile can be troublesome sometimes on very small screens. Sometimes there's just not enough room. If you don't want a collapsed nav, think about maybe having those links stacked on mobile. 
+
+Also, refer to my Milestone 2 feedback for some links to some libraries you might want to check out. (Totally optional.)  
+
+Nice work. Your Milestone 3 passes at Tier III. Go ahead and get started on development.
+

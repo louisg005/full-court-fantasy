@@ -4,15 +4,15 @@
 			<span class="sr-only">main menu</span>
 			<span class="glyphicon glyphicon-menu-hamburger"></span>
 		</button>
-		<a class="navbar-brand" href="#">Your Logo/Text Here</a>
+		<a class="navbar-brand" href="#">fullcourtfantasy.com</a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="main-menu">
 		<ul class="nav navbar-nav navbar-right">
 			<li><a href="#">Home</a></li>
-			<li><a href="#">Link1</a></li>
-			<li><a href="#">Link2</a></li>
-			<li><a href="#">Link3</a></li>
+			<li><a href="#">News</a></li>
+			<li><a href="#">Rankings</a></li>
+			<li><a href="#">Articles</a></li>
 		</ul>
 	</div>
 </nav>

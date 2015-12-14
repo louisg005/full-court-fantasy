@@ -10,7 +10,7 @@
 	<div class="collapse navbar-collapse" id="main-menu">
 		<ul class="nav navbar-nav navbar-right">
 			<li><a href="#">Home</a></li>
-			<li><a href="#">News</a></li>
+			<li><a href="../../news/index.php">News</a></li>
 			<li><a href="#">Rankings</a></li>
 			<li><a href="#">Articles</a></li>
 		</ul>

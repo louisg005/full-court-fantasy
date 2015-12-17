@@ -1,4 +1,11 @@
-<?php session_start(); ?>
+<?php
+session_start();
+require_once(dirname(dirname(__DIR__)) . "/root-path.php");
+$CURRENT_DEPTH = substr_count($CURRENT_DIR, "/");
+$ROOT_DEPTH = substr_count($ROOT_PATH, "/");
+$DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
+$PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -6,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet" />
-		<link type="text/css" href="/lib/stylesheet.css" rel="stylesheet" />
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
 
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -16,4 +23,3 @@
 
 		<title><?php echo $PAGE_TITLE; ?></title>
 	</head>
-	<body>

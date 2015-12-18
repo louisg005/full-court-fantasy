@@ -17,7 +17,7 @@ require_once("php/template/utilities.php");
 						<!-- Text box for inputting text comments up to 256 characters below -->
 						<div class="form-group">
 							<!-- Labels for each field are places within the label tag -->
-							<label for="email" class="control-label h3 email-label animated fadeInDownBig">
+							<label for="email" class="control-label h3 email-label animated bounceInDown">
 								Subscribe to our newsletter.
 							</label>
 							<br>

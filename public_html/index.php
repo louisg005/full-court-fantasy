@@ -13,17 +13,15 @@ require_once("php/template/utilities.php");
 		<div class="container form-top-margin">
 			<div class="row">
 				<div class="col-md-4 col-md-offset-9">
-					<form method="post" ng-submit="createComment(newComment, comment-form.$valid);" id="comment-form"
-							name="comment-form"
-							class="form-horizontal" novalidate>
+					<form method="post" action="<?php echo $PREFIX; ?>php/request-subscribe.php" id="subscribe" name="subscribe" class="form-horizontal">
 						<!-- Text box for inputting text comments up to 256 characters below -->
 						<div class="form-group">
 							<!-- Labels for each field are places within the label tag -->
-							<label for="email" class="control-label h3 email-label">Subscribe to our newsletter.</label>
+							<label for="email" class="control-label h3 email-label animated fadeInDownBig">
+								Subscribe to our newsletter.
+							</label>
 							<br>
-			<textarea class="form-control" cols="2" rows="1" id="txtareaEmail" name="txtareaEmail"
-						 ng-maxlength="256" placeholder="Enter your email" ng-model="newComment.commentText" required
-						 ng-required="true"></textarea>
+							<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email"/>
 						</div>
 						<button class="btn btn-md btn-info pull-right" type="submit">Submit</button>
 					</form>

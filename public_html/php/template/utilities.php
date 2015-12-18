@@ -13,7 +13,9 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet" />
-		<link type="text/css" href="css/style.css" rel="stylesheet" />
+		<link type="text/css" href="<?php echo $PREFIX; ?>css/style.css" rel="stylesheet" />
+
+		<link rel="stylesheet" href="<?php echo $PREFIX; ?>css/animate.min.css">
 
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>

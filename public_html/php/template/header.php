@@ -4,7 +4,7 @@
 			<span class="sr-only">main menu</span>
 			<span class="glyphicon glyphicon-menu-hamburger"></span>
 		</button>
-		<a class="navbar-brand" href="<?php echo $PREFIX; ?>">fullcourtfantasy.com</a>
+		<a class="navbar-brand" href="<?php echo $PREFIX; ?>">FullCourt Fantasy</a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="main-menu">

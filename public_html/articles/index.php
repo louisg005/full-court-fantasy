@@ -40,30 +40,41 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 			two calendar years, the year given is the last year for that season. for example, the year for the 1999-00
 			season would be 2000</p>
 
-			<h2>Miami Heat</h2>
+		<br>
+		<hr>
+
+		<div class="row">
+			<h2 class="inline-block">Miami Heat</h2>
+			<img src="../img/heat.png" alt="heat" class="inline-block pull-right logo"></div>
 		<ul>
-				<li>Gerald Green</li>
-				<li>Josh Richardson*</li>
-				<li>Amar'e Stoudemire</li>
-				<li>Justice Winslow*</li>
+			<li>Gerald Green</li>
+			<li>Josh Richardson*</li>
+			<li>Amar'e Stoudemire</li>
+			<li>Justice Winslow*</li>
 		</ul>
 		<p>This offseason, the Heat fixed up their bench and that is where all these players will remain until the injury
 			bug hits. Green will add scoring and 3's and is the only one here worth a second thought.</p>
 		<br>
+		<hr>
 
-		<h2>Milwaukee Bucks</h2>
+		<div class="row">
+			<h2 class="inline-block">Milwaukee Bucks</h2>
+			<img src="../img/bucks.png" alt="bucks" class="inline-block pull-right logo"></div>
 		<ul>
 			<li>Chris Copeland</li>
 			<li>Greg Monroe</li>
 			<li>Greivis Vasquez</li>
-			<li>Rashas Vaughn*</li>
+			<li>Rashad Vaughn*</li>
 		</ul>
 		<p>Greg Monroe should continue to be a double-double machine, especially given that he no longer has to split time
 			with Andre Drummond. Vaughn will add 3's and Vasquez, given the minutes, has proven to be a good source of
 			assists.</p>
 		<br>
+		<hr>
 
-		<h2>Minnesota Timberwolves</h2>
+		<div class="row">
+			<h2 class="inline-block">Minnesota Timberwolves</h2>
+			<img src="../img/timberwolves.png" alt="timberwolves" class="inline-block pull-right logo"></div>
 		<ul>
 			<li>Nemanja Bjelica*</li>
 			<li>Tyus Jones*</li>
@@ -76,8 +87,11 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 			your fantasy team. Bjelica and Jones are worth keeping an eye on to see how they develop, but for now just
 			stick with The Karl.</p>
 		<br>
+		<hr>
 
-		<h2>New Orleans Pelicans</h2>
+		<div class="row">
+			<h2 class="inline-block">New Orleans Pelicans</h2>
+			<img src="../img/pelicans.png" alt="pelicans" class="inline-block pull-right logo"></div>
 		<ul>
 			<li>Alonzo Gee</li>
 			<li>Kendrick Perkins</li>
@@ -88,8 +102,11 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 			a good way to get some assists and steals. Gee could get some run until Christmas when Tyreke Evans
 			returns.</p>
 		<br>
+		<hr>
 
-		<h2>New York Knicks</h2>
+		<div class="row">
+			<h2 class="inline-block">New York Knicks</h2>
+			<img src="../img/knicks.png" alt="knicks" class="inline-block pull-right logo"></div>
 		<ul>
 			<li>Arron Afflalo</li>
 			<li>Jerian Grant*</li>

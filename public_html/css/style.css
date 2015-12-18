@@ -46,6 +46,7 @@ body {
 
 .navbar-brand {
 	color: blue !important;
+	font-weight: 900;
 }
 
 #yourElement {
@@ -56,4 +57,17 @@ body {
 
 .delay {
 	animation-delay: 1s;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.logo {
+	padding-top: 20px;
+	margin-right: 20px;
+}
+
+.fcf {
+	font
 }

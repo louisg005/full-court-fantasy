@@ -40,12 +40,12 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 			two calendar years, the year given is the last year for that season. for example, the year for the 1999-00
 			season would be 2000</p>
 
-		<h2>Miami Heat</h2>
+			<h2>Miami Heat</h2>
 		<ul>
-			<li>Gerald Green</li>
-			<li>Josh Richardson*</li>
-			<li>Amar'e Stoudemire</li>
-			<li>Justice Winslow*</li>
+				<li>Gerald Green</li>
+				<li>Josh Richardson*</li>
+				<li>Amar'e Stoudemire</li>
+				<li>Justice Winslow*</li>
 		</ul>
 		<p>This offseason, the Heat fixed up their bench and that is where all these players will remain until the injury
 			bug hits. Green will add scoring and 3's and is the only one here worth a second thought.</p>

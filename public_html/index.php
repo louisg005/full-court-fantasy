@@ -21,9 +21,9 @@ require_once("php/template/utilities.php");
 								Subscribe to our newsletter.
 							</label>
 							<br>
-							<input type="email" class="form-control" id="email" name="email" placeholder="Enter your email"/>
+							<input type="email" class="form-control delay" id="email" name="email" placeholder="Enter your email"/>
 						</div>
-						<button class="btn btn-md btn-info pull-right" type="submit">Submit</button>
+						<button class="btn btn-md btn-info pull-right delay" type="submit">Submit</button>
 					</form>
 				</div>
 			</div>

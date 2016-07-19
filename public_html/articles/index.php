@@ -11,7 +11,7 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 	<div class="col-md-5 col-md-offset-2">
 		<h1><strong>New Faces</strong></h1>
 
-		<p>Hayden Craig</p>
+		<p>Louis Gill</p>
 
 		<p>FullCourt Fantasy Writer</p>
 		<hr>
@@ -152,4 +152,3 @@ require_once(dirname(__DIR__) . "/php/template/utilities.php");
 
 
 </body>
-</html>
